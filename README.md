@@ -1,7 +1,7 @@
 # flask-authz
 
-[![GitHub Action](https://github.com/pycasbin/flask-authz/workflows/build/badge.svg?branch=master)](https://github.com/pycasbin/flask-authz/actions)
-[![Coverage Status](https://coveralls.io/repos/github/pycasbin/flask-authz/badge.svg)](https://coveralls.io/github/pycasbin/flask-authz)
+[![GitHub Action](https://github.com/officialpycasbin/flask-authz/workflows/build/badge.svg?branch=master)](https://github.com/officialpycasbin/flask-authz/actions)
+[![Coverage Status](https://coveralls.io/repos/github/officialpycasbin/flask-authz/badge.svg)](https://coveralls.io/github/officialpycasbin/flask-authz)
 [![Version](https://img.shields.io/pypi/v/flask-authz.svg)](https://pypi.org/project/flask-authz/)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/flask-authz.svg)](https://pypi.org/project/flask-authz/)
 [![Pyversions](https://img.shields.io/pypi/pyversions/flask-authz.svg)](https://pypi.org/project/flask-authz/)
@@ -17,7 +17,7 @@ pip install flask-authz
 ```
 Or clone the repo:
 ```
-$ git clone https://github.com/pycasbin/flask-authz.git
+$ git clone https://github.com/officialpycasbin/flask-authz.git
 $ python setup.py install
 ```
 

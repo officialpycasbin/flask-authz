@@ -32,7 +32,7 @@ setup(
     description="An authorization middleware for Flask that supports ACL, RBAC, ABAC, based on Casbin",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pycasbin/flask-authz",
+    url="https://github.com/officialpycasbin/flask-authz",
     keywords=[
         "flask",
         "pycasbin",
@@ -52,7 +52,7 @@ setup(
     data_files=[desc_file],
     include_package_data=True,
     dependency_links=dependency_links,
-    download_url="https://github.com/pycasbin/flask-authz/tarball/v" + download_v,
+    download_url="https://github.com/officialpycasbin/flask-authz/tarball/v" + download_v,
     license="Apache 2.0",
     classifiers=[
         "Programming Language :: Python :: 3.9",
