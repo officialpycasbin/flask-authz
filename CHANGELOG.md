@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.7.0](https://github.com/officialpycasbin/flask-authz/compare/v2.6.0...v2.7.0) (2024-11-12)
+
+
+### Features
+
+* update path ([2a1f4a6](https://github.com/officialpycasbin/flask-authz/commit/2a1f4a6abd340cc4dedf5dedf51ea15b001560be))
+
 # [2.6.0](https://github.com/officialpycasbin/flask-authz/compare/v2.5.1...v2.6.0) (2024-03-29)
 
 
